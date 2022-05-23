@@ -1,2 +1,2 @@
 
-![alt text]([(https://dockerlabs.collabnix.com/docker/cheatsheet/])
+![alt text](https://dockerlabs.collabnix.com/docker/cheatsheet/)
